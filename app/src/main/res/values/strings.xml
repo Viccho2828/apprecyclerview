@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppRecyclerView</string>
+    <string name="titulolista">Listado de Alumnos</string>
+</resources>
